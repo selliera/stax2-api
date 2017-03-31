@@ -1,6 +1,6 @@
 # Overview
 
-Stax2 API is an extension to standard [Stax](http://en.wikipedia.org/wiki/StAX) API ("STandard Api for Xml procesing"),
+Stax2 API is an extension to standard [Stax](http://en.wikipedia.org/wiki/StAX) API ("STandard Api for Xml processing"),
 pull-parser API of JDK, added in JDK 6.
 
 ## Status
